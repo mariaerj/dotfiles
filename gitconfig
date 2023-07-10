@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Maria Carmen Escalante Rojas maria.erj.25@gmail.com
+	email = maria.erj.25@gmail.com
+	name = Maria Carmen Escalante Rojas
